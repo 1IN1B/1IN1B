@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Vikal Singh</title>
+    <link>https://heyvikki.is-a.dev/</link>
+    <description>Recent content on Vikal Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 05 Sep 2023 15:52:24 +0530</lastBuildDate><atom:link href="https://heyvikki.is-a.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide To Git</title>
+      <link>https://heyvikki.is-a.dev/blog/guidetogit/</link>
+      <pubDate>Tue, 05 Sep 2023 15:52:24 +0530</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/blog/guidetogit/</guid>
+      <description>This is a practical guide for git, and it is mainly aimed towards the ones who have no idea on what and how to use git. If you know someone who does not know how to use git, share them this article.
+What is Git? Git is a fast, scalable, distributed version control system with an unusually rich command set that provides both high-level operations and full access to internals.</description>
+    </item>
+    
+    <item>
+      <title>Ebook with Markdown</title>
+      <link>https://heyvikki.is-a.dev/blog/ebookwithmarkdown/</link>
+      <pubDate>Fri, 01 Sep 2023 15:52:24 +0530</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/blog/ebookwithmarkdown/</guid>
+      <description>Pandoc is a great tool for converting a file in one markup format into another. This means we can use it to convert a file written in Markdown into an EPUB file that is supported by many e-readers.
+Lets start by writting a very simple markdown file called example_ebook.md.
+---title:- type:maintext:Example Ebook- type:subtitletext:An Ebook created from a Markdown filecreator:- role:authortext:David Sadlerpublisher:Published by myself---This is an introduction.# Chapter 1This is the first paragraph of chapter 1.</description>
+    </item>
+    
+    <item>
+      <title>Docker Installation</title>
+      <link>https://heyvikki.is-a.dev/blog/dockersetup/</link>
+      <pubDate>Wed, 23 Aug 2023 15:37:27 +0530</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/blog/dockersetup/</guid>
+      <description>Installing Docker Docker is installed via package manager.
+Arch Linux $ sudo pacman -S dockerDebian/Ubuntu Linux $ sudo apt-get install docker.ioStarting Docker Engine Start the Docker daemon which provides the Docker Engine. This process serves the Docker API and manages Docker containers.
+$ sudo systemctl start docker.serviceIf you want Docker Engine to automatically start when you system boots issue the below command.
+$ sudo systemctl enable docker.serviceVerify that Docker Engine is running.</description>
+    </item>
+    
+    <item>
+      <title>Dark Side of Social Media</title>
+      <link>https://heyvikki.is-a.dev/blog/socialmedia/</link>
+      <pubDate>Fri, 04 Aug 2023 15:37:27 +0530</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/blog/socialmedia/</guid>
+      <description>TikTok has changed the world views on videos drastically in the recent years. From full-length 30min videos to 30s short video, people want to entertain themselves with just an infinite scroll of videos. People getting addicted to short videos.
+The massive success of TikTok just brought in more like it, YouTube Shorts, Instagram Reels and much more.
+Due to the infinite scroll of media that is relevant to your liking, I often find myself losing track of time and spending hours mindlessly swiping through the videos.</description>
+    </item>
+    
+    <item>
+      <title> DWM Setup</title>
+      <link>https://heyvikki.is-a.dev/blog/dwmsetup/</link>
+      <pubDate>Sat, 15 Jul 2023 15:37:27 +0530</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/blog/dwmsetup/</guid>
+      <description>Installing ST, DMENU and DWM  Introduction So Let&amp;rsquo;s Start, we will be require to install two things. A window system of some sort and a layout manager. For this installation I&amp;rsquo;m going with Xorg and dwm. For those that are not aware dwm is dynamic window manager for Xorg that has been developed by Suckless. Since by default dwm expects st to be installed as the system&amp;rsquo;s terminal and also makes use dmenu using which we launch applications I will installed both of them in addition to dwm.</description>
+    </item>
+    
+    <item>
+      <title>BSPWM Setup</title>
+      <link>https://heyvikki.is-a.dev/blog/bspwmsetup/</link>
+      <pubDate>Wed, 05 Jul 2023 15:37:27 +0530</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/blog/bspwmsetup/</guid>
+      <description>Installing ST, DMENU, and BSPWM  Introduction So Let&amp;rsquo;s Start, we will be installing two things. A window system and a layout manager. For this installation I&amp;rsquo;m using Xorg and bspwm. For those who don&amp;rsquo;t know bspwm is tiling window manager for Xorg . we will install st to be our default terminal and also make use of dmenu for launching applications, I will installed both of them in addition to bspwm.</description>
+    </item>
+    
+    <item>
+      <title>Stuff/Resources I use</title>
+      <link>https://heyvikki.is-a.dev/blog/stuff-i-use/</link>
+      <pubDate>Thu, 29 Jun 2023 15:37:27 +0530</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/blog/stuff-i-use/</guid>
+      <description>So this is About Stuff/Resources I use.
+System I have 2 Laptops:
+  One is old like from 2014. Its a Lenovo IdeaPad G500 series laptop. My linux testing and Other things which I want to try. And You can say like Server stuff, storing Data are done on this laptop. I upgraded it with a 240gb SATA SSD AND it has 8GB Ram. But a Old Dual core processor which is not good for today&amp;rsquo;s world.</description>
+    </item>
+    
+    <item>
+      <title>Why Hugo</title>
+      <link>https://heyvikki.is-a.dev/blog/why-hugo/</link>
+      <pubDate>Wed, 21 Jun 2023 15:37:27 +0530</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/blog/why-hugo/</guid>
+      <description>Introduction Hello, and welcome to my blog! I&amp;rsquo;m very excited to share my journey of creating this website using Hugo, a fast and flexible static site generator. I always wanted to write blogs as I have a passion for writing. I never knew that setting up a blog page would be this easy. Static Site Generators (SSGs) have made it easier for many people including newbies as well as professionals in their day-to-day life.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://heyvikki.is-a.dev/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/about/</guid>
+      <description>Hello, I’m vikki a 22 year old guy, you may know me as heyvikki on most social media platforms. I’m from Delhi, India🇮🇳 .
+I primarly do **web development(not a pro)*. I do it so I do not have to depend on others to run a website or websites at present and in future.
+I’m a Linux enthusiast. I use a GNU+Linux distribution called Debian Linux. Yeah, I’m not an arch fanboi, I just love using the distro as it fits my needs.</description>
+    </item>
+    
+    <item>
+      <title>Contact Me</title>
+      <link>https://heyvikki.is-a.dev/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/contact/</guid>
+      <description>I would be happy to write back if you’d like to send me an email.
+For any other small communication that can be sorted by IM, feel free to look over here for your preferred IM choice. If you are trying to contact me with IM, please ensure your message conveys your information concisely and readably, rather than sending a dumb hi/hello and expecting me to respond on it.</description>
+    </item>
+    
+    <item>
+      <title>Favourite Quotes</title>
+      <link>https://heyvikki.is-a.dev/quote/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://heyvikki.is-a.dev/quote/</guid>
+      <description>❝ Two roads diverged in a wood, and I— I took the one less traveled by. ❞ ~ Robert Frost
+   ❝ Best Practices don&amp;rsquo;t actually work. ❞
+   ❝ There is only one rule in this Universe is that there is no rule. ❞
+   ❝ The more I learn, the more I realise how much I don&amp;rsquo;t know. ❞ ~ Albert Einstein</description>
+    </item>
+    
+  </channel>
+</rss>
