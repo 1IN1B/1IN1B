@@ -18,14 +18,14 @@ pygmentsUseClasses = true
     name = "posts"
     title = "posts"
     url = "/blog/"
-    weight = 10
+    weight = 20
 
   [[menu.main]]
     identifier = "about"
     name = "about"
     title = "about"
     url = "/about/"
-    weight = 20
+    weight = 10
 
 
   [[menu.main]]
@@ -35,6 +35,19 @@ pygmentsUseClasses = true
     url = "/contact/"
     weight = 30
 
+[[menu.main]]
+    identifier = "socials"
+    name = "socials"
+    title = "socials"
+    url = "https://links-heyvikki.pages.dev/"
+    weight = 40
+
+[[menu.main]]
+    identifier = "source"
+    name = "source"
+    title = "source"
+    url = "https://github.com/heyvikki/heyvikki.github.io"
+    weight = 50
 
 
 [permalinks]
