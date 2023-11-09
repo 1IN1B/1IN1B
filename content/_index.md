@@ -20,12 +20,3 @@ I also write about computers, Linux/Unix and other stuff related to softwares, I
 - Email [vikalsingh@proton.me](mailto:vikalsingh@proton.me)
 - Mastodon [@Vikal@fosstodon.org](@Vikal@fosstodon.org)
 
-
-
-
-
-
-
-
-
-<p align="right">Source code <a href="https://github.com/heyvikki"></p>
