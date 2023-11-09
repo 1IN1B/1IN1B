@@ -24,7 +24,8 @@ I am always looking for new opportunities to collaborate with others, and I am a
 
  **singhvikal891[at]gmail[dot]com** .
 
-<br>
+
+
 This website is personal blog which I use to document my learning journey and share my work with the world. Blog page holds a list of all posts and blogs or you can use Tags to find pages about specific keywords.
 <br>
 Some of my hobbies include photography, cycling. I also like listening to music, and reading books.
