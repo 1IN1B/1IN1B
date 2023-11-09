@@ -61,8 +61,9 @@ git config --global user.email "email"
 
 ### Basic Commands For Git
 
-1. git add
+- git add
 The git add command is used to add files to git, so that the git can track. When you add files through the git add command they get staged. You can think it as an intermediate stage between the start and the end of something. Syntax :-
+
 ```
 # For adding one file
 
@@ -72,32 +73,41 @@ $ git add (filename1) (filename2)
 # For adding all the files in a folder
 $ git add *
 ```
-2. git commit
+
+- git commit
 Now you have staged and added your files with git add for finalising it you need to run the command git commit command. It must be followed by a -m tag, and you must type message in quotes, stating your commit (what are you committing) you can also type garbage, but it defeats the purpose of the -m tag.
+
 ```
 # Commiting a file 
 $ git commit -m "Commit Message"
 # Example 2
 $ git commit -m "Refactored the code"
 ```
-3. Git pull
+
+- Git pull
 the git pull command downloads all the files present in the repository. It's advised to do a git pull before a push, as it can reduce merge conflicts. Imagine you and your friend are working a project (creating a website). You are working on the CSS whereas your friend is working on HTML. When have completed your part and planning to push to code to the repository, your friend have already made some changes to the files. But these changes are not present in your system, hence for downloading the changes made by your friend you need to do a git pull.
+
 ```
 # Git pull command
 $ git pull
 ```
-4. Git push
+
+- Git push
 The git push command sends the changes and new files to the repository. Now if you are asking what is repository, consider as a online folder where all your colleagues contribute their work.
+
 ```
 # Git push command
 $ git push
 ```
-5. Git status
+
+- Git status
 The git status command shows your tracked, untracked, which files differ from the working tree.
+
 ```
 # git status command
 $ git status
 ```
+
 When you do a git push, git will ask for your credentials. There are a few ways in which you can authenticate it, my preferred way is to use SSH keys. I will be releasing a new article based on this, so do follow me.
 
 ### Comments 

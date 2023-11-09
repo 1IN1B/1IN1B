@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    color: #aeaeae;
+    color: #edebeb;
     background: rgb(22, 23, 29);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -30,7 +30,7 @@ main#content p {
 }
 
 main#content hr {
-    background: #5c5c5c;
+    background: #c87373;
 }
 
 main#content #toc h4 {
@@ -46,7 +46,7 @@ main#content ul#posts li a:hover {
 }
 
 main#content header#post-header div {
-    color: #a7a7a7;
+    color: rgb(102, 180, 211);
 }
 {{- if not (eq .Site.Params.dark "on") -}}
 }
