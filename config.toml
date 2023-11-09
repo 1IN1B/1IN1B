@@ -1,6 +1,6 @@
 baseURL = "https://heyvikki.pages.dev"
 title = "Chad Vikki"
-theme = "etch"
+theme = "glitch"
 languageCode = "en-US"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
