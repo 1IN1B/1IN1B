@@ -2,27 +2,32 @@
 title: "About Me"
 draft: false
 ---
-
+<div align="center">
+<img src="/images/about.gif" alt="Image" width=50%>
+</div>
  
- Hello, I’m **vikki** a 22 year old guy, you may know me as *heyvikki* on most social media platforms. I’m from Delhi, India🇮🇳 . 
+
+## Who am I?
+
+I'm no one special. I'm yet another teenager from somewhere in the world who loves computers. My pronouns are **He/Him**. I'm a 22 years old full stack web developer from India. Programming is my hobby, which eventually became my passion. I mostly code in Python, JavaScript, Go, Bash & CSS. I love to build bots, websites, useless projects and apps! I am experienced with stuff like Vercel, Heroku, Google Cloud etc. 
+
+I am a huge Linux and open source software fan.I use a GNU+Linux distribution called **Debian Linux**. Yeah, I’m not an arch fanboi, I just love using the distro as it fits my needs. I also use a window manager called *i3* instead of using a desktop environment, not gonna change anytime because I have a beautiful workflow on it. I also use Windows(I love Gaming). And i use WSL2(Ubuntu) for work when in windows. I also spend my time ricing my Linux. 
+
+
+I love to read English literature & solving math problems XD. I contribute to open source projects when I'm not busy with my studies & assignments. I also maintain some open source projects on GitHub. I love solving maths, exploring physics and watching anime apart from playing with computers and coding.
+
+BTW My name **vikki**, you may know me as *heyvikki* on most social media platforms. I’m from Delhi, India🇮🇳 . 
 
 
 I primarly do **web development(not a pro)*. I do it so I do not have to depend on others to run a website or websites at present and in future.
 
-I’m a Linux enthusiast. I use a GNU+Linux distribution called **Debian Linux**. Yeah, I’m not an arch fanboi, I just love using the distro as it fits my needs. I also use a window manager called *i3* instead of using a desktop environment, not gonna change anytime because I have a beautiful workflow on it. I also use Windows(I love Gaming). And i use WSL2(Ubuntu) for work when in windows.
-
-I can code in Golang, write bash scripts, write some amount of C/C++, and present try NextJS.
 
 I use **VS Code** as my main editor. I also use it for various other reasons as its very extensive, having extensions support for different languages. I won’t hate you if you’re a vim user btw, because I am one too.
 
-I use github for projects stuff, while I use gitlab for my personal projects.
-
-I’m a friendly guy once you get to know me. I follow by this simple principle: I’m nice to those who are nice to me.
 If you have any important queries to ask me, feel free to read my FAQ & join my telegram chat instead of just sending a hi.
-<br>
-I am always looking for new opportunities to collaborate with others, and I am always eager to learn new things. If you have any questions or suggestions, please do not hesitate to get in touch with me on email 
 
- **singhvikal891[at]gmail[dot]com** .
+
+I am always looking for new opportunities to collaborate with others, and I am always eager to learn new things. If you have any questions or suggestions, please do not hesitate to get in touch with me on email  **singhvikal891[at]gmail[dot]com** .
 
 
 
@@ -31,8 +36,21 @@ This website is personal blog which I use to document my learning journey and sh
 Some of my hobbies include photography, cycling. I also like listening to music, and reading books.
 
 
+<div align="center">
+<img src="/images/anime-aestethic.gif" alt="Image" width=50%>
+</div>
+
+
+## My Tech Stack
+
+- Programming Languages:  HTML, CSS, Python, Javascript, C & C++
+- Frameworks: Bootstrap, FastAPI, Tailwind, Django
+- Tools: Heroku, Google Cloud, GitHub, Git, GitLab, Vercel, Netlify, Cloudflare Pages, Cloudflare, Visual Studio Code
+- Databases: MongoDB, PostgreSql
+- Technologies & Other Skills: Frontend Development, Backend Development, Full-Stack Developement, Discord & Telegram Bot Development, GitHub Workflows
+
  
-<br>
+
 
 - [Favorite Quotes](/quote)
 - [Link Tree](https://links-heyvikki.pages.dev) for all my social media profiles.
@@ -40,5 +58,11 @@ Some of my hobbies include photography, cycling. I also like listening to music,
 
 
 
+### What softwares do I use daily?
+Brave, Mozilla Firefox, Instagram, Discord, WhatsApp, Telegram, GitHub and others.
 
+### Where am I from?
+I'm originally from the Indian state Madhya Pradesh but I currently reside in New Delhi, India.
 
+### What are your hobbies?
+Reading, Coding, Listening to music, Sleeping, Photography, Writing Poetry and Watching Anime.

@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://heyvikki.is-a.dev/sitemap.xml
