@@ -1,7 +1,7 @@
 ---
 title: "Stuff/Resources I use"
 date: 2023-06-29T15:37:27+05:30
-authors: ["Vikal Singh"]
+authors: ["Vikki"]
 description: ""
 tags: ["linux","os","wm","foss","softwares"]
 categories: [""]
@@ -62,5 +62,3 @@ I don't have comments as I don't want to manage them. You can however contact me
 #### License 
 
 [The contents of this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
-
-[=> Return to Homepage](https://vikmenace.github.io)

@@ -1,7 +1,7 @@
 ---
 title: 'Ebook with Markdown'
 date: 2023-09-01T15:52:24+05:30
-authors: ["Vikal Singh"]
+authors: ["Vikki"]
 description: ""
 tags: ["Bspwm","dmenu","st","linux","sxhkd","alacritty","polybar"]
 categories: [""]
@@ -98,4 +98,4 @@ I don't have comments as I don't want to manage them. You can however contact me
 
 [The contents of this site is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
 
-[=> Return to Homepage](https://vikmenace.github.io)
+
