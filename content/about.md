@@ -3,7 +3,7 @@ title: "About Me"
 draft: false
 ---
 <div align="center">
-<img src="/images/about.gif" alt="Image" width=50%>
+<img src="/images/about.gif" alt="Image" width=70%>
 </div>
  
 
@@ -37,7 +37,7 @@ Some of my hobbies include photography, cycling. I also like listening to music,
 
 
 <div align="center">
-<img src="/images/lofi-browsing.gif" alt="Image" width=50%>
+<img src="/images/lofi-browsing.gif" alt="Image" width=70%>
 </div>
 
 
