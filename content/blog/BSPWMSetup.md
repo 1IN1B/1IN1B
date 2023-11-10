@@ -307,7 +307,7 @@ It Will look similar to image on the top of this article.
 
 I don't have comments as I don't want to manage them. You can however contact me at the below address if you want to.
 
- - [ Email singhvikal891@gmail.com](mailto:singhvikal891@gmail.com)
+ - [ Email chadvikki@proton.me](mailto:chadvikki@proton.me)
 
 
 

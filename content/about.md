@@ -27,7 +27,7 @@ I use **VS Code** as my main editor. I also use it for various other reasons as 
 If you have any important queries to ask me, feel free to read my FAQ & join my telegram chat instead of just sending a hi.
 
 
-I am always looking for new opportunities to collaborate with others, and I am always eager to learn new things. If you have any questions or suggestions, please do not hesitate to get in touch with me on email  **singhvikal891[at]gmail[dot]com** .
+I am always looking for new opportunities to collaborate with others, and I am always eager to learn new things. If you have any questions or suggestions, please do not hesitate to get in touch with me on email  **chadvikki[at]proton[dot]me** .
 
 
 

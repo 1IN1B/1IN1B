@@ -7,8 +7,7 @@ draft: false
 <img src="/images/xoxo-shy.gif" alt="Image" width=50%>
 </div>
 
-I would be happy to write back if you’d like to send me an [email](mailto:singhvikal891@gmail.com).
-
+I would be happy to write back if you’d like to send me an [email](mailto:chadvikki@proton.me).
 
 You can always reach out to me through my 📧 e-mail. You can also DM me on Twitter or Linkedin. Please note that I might be slow to reply.
 

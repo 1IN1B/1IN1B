@@ -144,7 +144,7 @@ You just have to select **Yes** at some places and this script will give you a b
 
 I don't have comments as I don't want to manage them. You can however contact me at the below address if you want to.
 
- - [ Email singhvikal891@gmail.com](mailto:singhvikal891@gmail.com)
+ - [ Email chadvikki@proton.me](mailto:chadvikki@proton.me)
 
 
 

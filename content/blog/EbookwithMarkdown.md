@@ -90,8 +90,7 @@ This will create a file called example_ebook.mobi that you can copy to your Kind
 
 I don't have comments as I don't want to manage them. You can however contact me at the below address if you want to.
 
- - [ Email singhvikal891@gmail.com](mailto:singhvikal891@gmail.com)
-
+  - [ Email chadvikki@proton.me](mailto:chadvikki@proton.me)
 
 
 #### License 
