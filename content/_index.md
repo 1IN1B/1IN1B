@@ -18,6 +18,6 @@ I also write about computers, Linux/Unix and other stuff related to softwares, I
 - GitLab [@heyvikki](https://gitlab.com/heyvikki)
 - Twitter [@vikal_here](https://twitter.com/vikal_here)
 - Linkedin [@vikal-singh](https://linked.com/in/vikal-singh)
-- Email [singhvikal891@gmail.com](mailto:chadvikki@proton.me)
-- Mastodon [@Vikal@fosstodon.org](httsp://@Vikal@fosstodon.org)
+- Email [chadvikki@proton.me](mailto:chadvikki@proton.me)
+- Mastodon [@Vikal@fosstodon.org](https://fosstodon.org/@Vikal)
 
