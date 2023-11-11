@@ -2,10 +2,11 @@
 title: "About Me"
 draft: false
 ---
+<br>
 <div align="center">
-<img src="/images/about.gif" alt="Image" width=70%>
+<img src="/images/about.gif" alt="FREEDOM" width=70%>
 </div>
- 
+ <br>
 
 ## Who am I?
 
@@ -35,11 +36,13 @@ This website is personal blog which I use to document my learning journey and sh
 <br>
 Some of my hobbies include photography, cycling. I also like listening to music, and reading books.
 
-
+-------------
+<br>
 <div align="center">
-<img src="/images/lofi-browsing.gif" alt="Image" width=70%>
+<img src="/images/lofi-browsing.gif" alt="FREEDOM" width=70%>
 </div>
-
+<br>
+-------------
 
 ## My Tech Stack
 
@@ -49,14 +52,17 @@ Some of my hobbies include photography, cycling. I also like listening to music,
 - Databases: MongoDB, PostgreSql
 - Technologies & Other Skills: Frontend Development, Backend Development, Full-Stack Developement, Discord & Telegram Bot Development, GitHub Workflows
 
- 
+------------- 
+
+### some more stuff :)
+
 
 
 - [Favorite Quotes](/quote)
-- [Link Tree](https://links-heyvikki.pages.dev) for all my social media profiles.
+- [Link Tree](https://socials-heyvikki.pages.dev) for all my social media profiles.
 
 
-
+-------------
 
 ### What softwares do I use daily?
 Brave, Mozilla Firefox, Instagram, Discord, WhatsApp, Telegram, GitHub and others.
@@ -66,3 +72,7 @@ I'm originally from the Indian state Madhya Pradesh but I currently reside in Ne
 
 ### What are your hobbies?
 Reading, Coding, Listening to music, Sleeping, Photography, Writing Poetry and Watching Anime.
+
+
+
+-------------

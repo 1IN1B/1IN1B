@@ -14,7 +14,7 @@ I also write about computers, Linux/Unix and other stuff related to softwares, I
 
 ## Qucik Links
 
-- Feed [heyvikki.pages.dev](https://heyvikki.pages.dev/index.xml)
+- RSS-Feed [heyvikki.pages.dev](https://heyvikki.pages.dev/index.xml)
 - GitHub [@heyvikki](https://github.com/heyvikki)
 - GitLab [@heyvikki](https://gitlab.com/heyvikki)
 - Twitter [@vikal_here](https://twitter.com/vikal_here)
