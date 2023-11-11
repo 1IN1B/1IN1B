@@ -1,6 +1,6 @@
 ---
 title: 'Guide To Git'
-date: 2023-09-05T15:52:24+05:30
+date: 2023-09-25T15:52:24+05:30
 authors: ["Vikki"]
 description: ""
 tags: ["git","github","gitlab","linux","Version Control","computer","technology"]
