@@ -1,6 +1,6 @@
 ---
 title: "WSL Setup"
-date: 2023-010-29T15:37:27+05:30
+date: 2023-10-29T15:37:27+05:30
 authors: ["Vikki"]
 draft: false
 ---
