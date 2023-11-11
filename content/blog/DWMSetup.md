@@ -1,6 +1,6 @@
 ---
 title: " DWM Setup"
-date: 2023-07-15T15:37:27+05:30
+date: 2023-07-25T15:37:27+05:30
 authors: ["Vikki"]
 description: ""
 tags: ["dwm","dmenu","st","linux","suckless"]

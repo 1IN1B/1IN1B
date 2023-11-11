@@ -1,6 +1,6 @@
 ---
 title: 'Ebook with Markdown'
-date: 2023-09-01T15:52:24+05:30
+date: 2023-10-10T15:52:24+05:30
 authors: ["Vikki"]
 description: ""
 tags: ["Bspwm","dmenu","st","linux","sxhkd","alacritty","polybar"]
