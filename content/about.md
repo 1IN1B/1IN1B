@@ -37,12 +37,16 @@ This website is personal blog which I use to document my learning journey and sh
 Some of my hobbies include photography, cycling. I also like listening to music, and reading books.
 
 -------------
+
 <br>
 <div align="center">
 <img src="/images/lofi-browsing.gif" alt="FREEDOM" width=70%>
 </div>
 <br>
--------------
+
+--------------
+
+
 
 ## My Tech Stack
 
