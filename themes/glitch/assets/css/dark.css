@@ -2,12 +2,12 @@
 @media (prefers-color-scheme: dark) {
 {{ end -}}
 html {
-    scrollbar-color: #6c6c6c #1d2021;
+    scrollbar-color: #acabab #1d2021;
 }
 
 body {
     color: #f9f9f9;
-    background: #282828;
+    background: #15181b;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
