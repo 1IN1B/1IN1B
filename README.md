@@ -1,6 +1,6 @@
 # [Web Page](https://heyvikki.pages.dev)
 
-This portfolio website build using [Hugo](https://gohugo.io/) using the [Glitch](https://github.com/heyvikki/glitch) theme.
+This portfolio website build using [Hugo](https://gohugo.io/) using the [Glitch](https://github.com/vikvss/glitch) theme.
 
 
 
@@ -19,7 +19,7 @@ This portfolio website build using [Hugo](https://gohugo.io/) using the [Glitch]
 To install `etch`, download the repository into the `themes` folder in the root of your site.
 
 ```
-$ git submodule add https://github.com/LukasJoswiak/etch.git themes/etch
+$ git submodule add https://github.com/vikvss/glitch.git themes/glitch
 ```
 #### Setup 
 
