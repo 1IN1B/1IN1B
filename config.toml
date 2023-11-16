@@ -14,9 +14,9 @@ pygmentsUseClasses = true
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    title = "posts"
+    identifier = "all posts"
+    name = "all posts"
+    title = "all posts"
     url = "/blog/"
     weight = 20
 
