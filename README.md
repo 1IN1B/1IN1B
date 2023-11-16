@@ -1,4 +1,4 @@
-# [Web Page](https://heyvikki.pages.dev)
+# [Web Page](https://vikki.pages.dev)
 
 This portfolio website build using [Hugo](https://gohugo.io/) using the [Glitch](https://github.com/vikvss/glitch) theme.
 
