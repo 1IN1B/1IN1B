@@ -16,11 +16,9 @@ I also write about computers, Linux/Unix and other stuff related to softwares, I
 
 ## Qucik Links
 
-- RSS-Feed [heyvikki.pages.dev](https://heyvikki.pages.dev/index.xml)
-- GitHub [@heyvikki](https://github.com/heyvikki)
-- GitLab [@heyvikki](https://gitlab.com/heyvikki)
-- Twitter [@vikal_here](https://twitter.com/vikal_here)
-- Linkedin [@vikal-singh](https://linked.com/in/vikal-singh)
+- RSS-Feed [vikki.pages.dev](https://vikki.pages.dev/index.xml)
+- GitHub [@vikvss](https://github.com/vikvss)
+- GitLab [@heyvikki](https://gitlab.com/vikvss)
 - Email [chadvikki@proton.me](mailto:chadvikki@proton.me)
 - Mastodon [@Vikal@fosstodon.org](https://fosstodon.org/@Vikal)
 
