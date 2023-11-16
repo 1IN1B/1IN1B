@@ -4,7 +4,7 @@ draft: false
 ---
 
 <div align="center">
-<img src="/images/xoxo-shy.gif" alt="Image" width=50%>
+<img src="/images/lofi-browsing.gif" alt="Image" width=50%>
 </div>
 
 I would be happy to write back if you’d like to send me an [email](mailto:chadvikki@proton.me).
