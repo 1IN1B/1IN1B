@@ -3,7 +3,7 @@ title: "Home"
 ---
 
 
-<h3 align='center'>The Atremis </h3>
+<h2 align='center'>The Atremis </h2>
 <br>
 <h4>Hello Everyone 👋</h4>
   
