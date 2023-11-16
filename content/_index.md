@@ -3,8 +3,8 @@ title: "Home"
 ---
 
 <br>
-
-<h3>Hello Everyone 👋<h/3>
+<h3>The Atremis </h3>
+<h4>Hello Everyone 👋</h4>
   
 I'm  Vikki. I'm a 22 year old friendly neighborhood full stack web developer, linux/unix & open-source software enthusiast, graduated in computer science and avid reader. I build mostly useless and sometimes useful projects. Whenever I'm not studying you'll find me writing code (again usleless), watching anime, reading books, listening to music or clicking photos.
 
