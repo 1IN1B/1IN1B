@@ -36,14 +36,6 @@ pygmentsUseClasses = true
     weight = 30
 
 
-[[menu.main]]
-    identifier = "socials"
-    name = "socials"
-    title = "socials"
-    url = "https://socials-heyvikki.pages.dev/"
-    weight = 40
-
-
 
 
 [permalinks]
