@@ -18,7 +18,7 @@ I also write about computers, Linux/Unix and other stuff related to softwares, I
 
 - RSS-Feed [vikki.pages.dev](https://vikki.pages.dev/index.xml)
 - GitHub [@vikvss](https://github.com/vikvss)
-- GitLab [@heyvikki](https://gitlab.com/vikvss)
+- GitLab [@vikvss](https://gitlab.com/vikvss)
 - Email [chadvikki@proton.me](mailto:chadvikki@proton.me)
 - Mastodon [@Vikal@fosstodon.org](https://fosstodon.org/@Vikal)
 
