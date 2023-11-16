@@ -16,7 +16,6 @@ I also post guides and tutorials.
 
 - RSS-Feed [@vikki.pages.dev](https://vikki.pages.dev/index.xml)
 - GitHub [@vikvss](https://github.com/vikvss)
-- GitLab [@vikvss](https://gitlab.com/vikvss)
 - Email [chadvikki@proton.me](mailto:chadvikki@proton.me)
 - Mastodon [@Vikal@fosstodon.org](https://fosstodon.org/@Vikal)
 
