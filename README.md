@@ -10,7 +10,6 @@ This portfolio website build using [Hugo](https://gohugo.io/) using the [Glitch]
 * Support for pages.
 * Responsive design for optimized mobile experience.
 * Syntax highlighting with customizable theme.
-* Dark theme which automatically adjusts based on users' setting ([example](https://github.com/LukasJoswiak/etch/wiki/Dark-mode)).
 * No external dependencies, no JavaScript, no web fonts.
 * Internationalization friendly: use default English translations or create your own
 
@@ -19,7 +18,7 @@ This portfolio website build using [Hugo](https://gohugo.io/) using the [Glitch]
 To install `etch`, download the repository into the `themes` folder in the root of your site.
 
 ```
-$ git submodule add https://github.com/vikvss/glitch.git themes/glitch
+$ git submodule add https://github.com/vi4al/glitch.git themes/glitch
 ```
 #### Setup 
 
