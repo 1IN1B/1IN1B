@@ -280,3 +280,6 @@ footer#footer {
     color: rgb(213, 210, 210);
     margin: 40px 0;
 }
+.nav-right ul li, .nav-right ul {
+	float: right;
+}
