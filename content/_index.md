@@ -16,8 +16,8 @@ I also post guides and tutorials. you can take a look at them in posts section a
 ## Qucik Links
 
 - RSS-Feed [@vikki.pages.dev](https://vikki.pages.dev/index.xml)
-- GitHub [@vi4al](https://github.com/vikvss)
-- Email [vi4al@proton.me](mailto:vi4al@proton.me)
+- GitHub [@vikfp](https://github.com/vikvss)
+- Email [vs@proton.me](mailto:vikalsingh@proton.me)
 - Mastodon [@Vikal@fosstodon.org](https://fosstodon.org/@Vikal)
 
 
@@ -26,8 +26,8 @@ I also post guides and tutorials. you can take a look at them in posts section a
 
 ## Experiments
 
-- [glitch](https://github.com/vi4al/glitch) - A HUGO theme fot blog and portfolio site.
-- [vsfetch](https://github.com/vi4al/vsfetch) - A system information fetcher for linux/unix operation systems.
-- [chadvi](https://github.com/vi4al/chadvi) - A simple, configurable and fully working VIM config.
-- [gapt](https://github.com/vi4al/gapt) - A whiptail menu for APT package manager.
+- [glitch](https://github.com/vikfp/glitch) - A HUGO theme fot blog and portfolio site.
+- [vsfetch](https://github.com/vikgp/vsfetch) - A system information fetcher for linux/unix operation systems.
+- [chadvi](https://github.com/vikfp/chadvi) - A simple, configurable and fully working VIM config.
+- [gapt](https://github.com/vikfp/gapt) - A whiptail menu for APT package manager.
 
