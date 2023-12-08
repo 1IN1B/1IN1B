@@ -175,5 +175,5 @@ Reload .vimrc and `:PlugInstall` to install plugins.
 
 
 
-[vim-plug](https://github.com/junegunn/vim-plug/blob/master/README.md)
-[vim](https://www.vim.org/)
+- [vim-plug](https://github.com/junegunn/vim-plug/blob/master/README.md)
+- [vim](https://www.vim.org/)
