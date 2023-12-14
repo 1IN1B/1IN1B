@@ -3,7 +3,6 @@ title: "Home"
 ---
 
 
-<h2 align='center'>The Atremis </h2>
 <br>
 <h4>Hello Everyone 👋</h4>
   
@@ -16,7 +15,7 @@ I also post guides and tutorials. you can take a look at them in posts section a
 ## Qucik Links
 
 - RSS-Feed [@vikki.pages.dev](https://vikki.pages.dev/index.xml)
-- GitHub [@vikfp](https://github.com/vikvss)
+- GitHub [@vikfp](https://github.com/vikfp)
 - Email [vs@proton.me](mailto:vikalsingh@proton.me)
 - Mastodon [@Vikal@fosstodon.org](https://fosstodon.org/@Vikal)
 
@@ -27,7 +26,7 @@ I also post guides and tutorials. you can take a look at them in posts section a
 ## Experiments
 
 - [glitch](https://github.com/vikfp/glitch) - A HUGO theme fot blog and portfolio site.
-- [vsfetch](https://github.com/vikgp/vsfetch) - A system information fetcher for linux/unix operation systems.
+- [vsfetch](https://github.com/vikfp/vsfetch) - A system information fetcher for linux/unix operation systems.
 - [chadvi](https://github.com/vikfp/chadvi) - A simple, configurable and fully working VIM config.
 - [gapt](https://github.com/vikfp/gapt) - A whiptail menu for APT package manager.
 
