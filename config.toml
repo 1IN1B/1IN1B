@@ -1,5 +1,5 @@
 baseURL = "https://vikki.pages.dev"
-title = "VSS"
+title = "Vikki Singh Somvanshi"
 theme = "glitch"
 languageCode = "en-US"
 enableInlineShortcodes = true
@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = "Vikki's Personal Website for portfolio and blogs "
-  copyright = "Copyright © 2023 Vikki"
+  copyright = "Copyright © 2023 Vikki Singh Somvanshi"
   dark = "auto"
   highlight = true
 
