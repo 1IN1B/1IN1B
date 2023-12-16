@@ -47,7 +47,7 @@ weight = 4
 #################### default parameters ################################
 [params]
 # Meta data
-description = "This is 1IN1B"
+description = "This is 1IN1B, We Develop"
 author = "1IN1B"
 
 # favicon
@@ -61,7 +61,7 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "The New UMoMA Opens its Doors"
+heading = "Hello Everyone, we are 1IN1B 👋"
 image = "images/2020-landscape-1-2.png"
 
 
@@ -69,7 +69,7 @@ image = "images/2020-landscape-1-2.png"
 [params.call_to_action]
 enable = true
 title = "Contact us for more information."
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
+content = "You can contact US using Mail, for more details you can visit the Contact page."
 button_label = "Contact Us"
 button_url = "contact/"
 
@@ -86,17 +86,15 @@ image = "images/2020-square-1.png"
 
 # footer
 [params.footer]
-title = "About This Site"
-content = "This may be a good place to introduce yourself and your site or include some credits."
-address = "123 Main Street <br> New York, NY 10001"
-hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday & Sunday: 11:00AM–3:00PM"
-copyright = "Copyright &copy; 2021 a hugo theme by [themefisher](https://themefisher.com/hugo-themes/) ported from [WordPress Twenty Twenty](https://github.com/WordPress/twentytwenty)"
+title = "About 1IN1B"
+content = " We build world class free and open-source software."
+address = " Content licensed under CC-BY-SA 3.0, Bhopal, India"
+hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday: 11:00AM–3:00PM"
+copyright = "Copyright &copy; 1IN1B, Content licensed under CC-BY-SA 3.0."
 
 ############################# social site ########################
 [params.social]
-yelp = "#"
-facebook = "#"
-twitter = "#"
-instagram = "#"
-email = "#"
-linkedin = "#"
+facebook = "https://Facebook.com"
+twitter = "https://Twitter.com"
+instagram = "https://instagram.com"
+email = "mailto:singhvikal891@gmail.com"
