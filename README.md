@@ -1,4 +1,4 @@
-# [Web Page](https://vikki.pages.dev)
+# [Web Page](https://1in1b.github.io)
 
 This portfolio website build using [Hugo](https://gohugo.io/) using the [Twenty twenty](https://github.com/gethugothemes/twenty-twenty-hugo/tree/4f4b43fe480f3736e5396cb53e71732f7b4efc99) theme.
 
