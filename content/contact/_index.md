@@ -7,4 +7,10 @@ description: "This is meta description"
 draft: false
 ---
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+I would be happy to write back if you’d like to send me an [email](mailto:bibhutibhushansaha2000@gmail.com).
+
+You can always reach out to me through my 📧 e-mail. You can also DM me on Twitter or Linkedin. Please note that I might be slow to reply.
+
+
+
+For any other platforms, feel free to look over [here](mailto:bibhutibhushansaha2000@gmail.com) for your preferred IM choice. If you are trying to contact me with IM, please ensure your message conveys your information concisely and readably.
