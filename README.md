@@ -15,7 +15,7 @@ This portfolio website build using [Hugo](https://gohugo.io/) using the [Twenty 
 
 ## Installation
 
-To install `etch`, download the repository into the `themes` folder in the root of your site.
+To install `twenty-twenty`, download the repository into the `themes` folder in the root of your site.
 
 ```
 $ git submodule add https://github.com/gethugothemes/twenty-twenty-hugo/tree/4f4b43fe480f3736e5396cb53e71732f7b4efc99 themes/twenty-twenty 
