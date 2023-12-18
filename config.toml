@@ -84,7 +84,7 @@ enable = true
 [params.footer]
 title = "About 1IN1B"
 content = " We build world class free and open-source software."
-address = " Content licensed under CC-BY-SA 3.0, Bhopal, India"
+address = " Bhopal, India"
 hours = "Monday–Friday: 9:00AM–5:00PM <br> Saturday: 11:00AM–3:00PM"
 copyright = "Copyright &copy; 1IN1B, Content licensed under CC-BY-SA 3.0."
 
