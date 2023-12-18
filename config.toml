@@ -61,7 +61,7 @@ expire_days = 2
 
 # banner
 [params.banner]
-heading = "Hello Everyone, we are 1IN1B 👋"
+heading = "Welcome to 1IN1B: Pioneering Digital Innovation"
 image = "images/136827822.png"
 
 
@@ -69,7 +69,7 @@ image = "images/136827822.png"
 [params.call_to_action]
 enable = true
 title = "Contact us for more information."
-content = "You can contact US using Mail, for more details you can visit the Contact page."
+content = "Join us at 1IN1B and embark on a digital journey where innovation knows no bounds. Let's redefine your digital presence together, for more details you can visit the Contact page."
 button_label = "Contact Us"
 button_url = "contact/"
 
