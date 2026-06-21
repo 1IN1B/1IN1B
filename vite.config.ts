@@ -5,7 +5,6 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: process.env.DEPLOY_TARGET === 'gh-pages' ? '/1IN1B/' : '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
