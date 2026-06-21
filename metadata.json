@@ -1,0 +1,6 @@
+{
+  "name": "1IN1B Agency",
+  "description": "Software development agency turning ideas into code. Specializing in SaaS, Web apps, Mobile apps, CRMs, POS and complex workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
