@@ -42,8 +42,8 @@ export default function Header() {
     >
       <div className="max-w-7xl mx-auto px-6 flex items-center justify-between">
         {/* Logo */}
-        <Link to="/" className="font-black italic tracking-tighter leading-none text-3xl md:text-4xl">
-          1IN1B
+        <Link to="/" className="flex items-center">
+          <img src="/logo.svg" alt="1IN1B" className="h-8 md:h-10 w-auto" />
         </Link>
 
         {/* Desktop Nav */}
