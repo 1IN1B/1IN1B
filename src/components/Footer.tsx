@@ -8,8 +8,8 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 lg:gap-8 mb-16">
           <div className="lg:col-span-2">
-            <a href="#" className="font-black italic tracking-tighter leading-none text-4xl inline-block mb-6 text-zinc-900 dark:text-white">
-              1IN1B
+            <a href="#" className="inline-block mb-6">
+              <img src="/logo.svg" alt="1IN1B" className="h-10 w-auto" />
             </a>
             <p className="text-zinc-600 dark:text-zinc-400 max-w-sm mb-8 leading-relaxed italic border-l-2 border-orange-600 dark:border-orange-500 pl-4">
               We turn ideas into code. Elevating businesses through robust SaaS platforms, core systems, and custom automation workflows.

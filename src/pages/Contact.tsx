@@ -1,10 +1,40 @@
 import { motion } from 'motion/react';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-import { ArrowLeft, Send } from 'lucide-react';
+import { ArrowLeft, Send, Loader2 } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { useState, type FormEvent } from 'react';
+import emailjs from '@emailjs/browser';
+import toast from 'react-hot-toast';
+
+const SERVICE_ID = import.meta.env.VITE_EMAILJS_SERVICE_ID;
+const TEMPLATE_ID = import.meta.env.VITE_EMAILJS_TEMPLATE_ID;
+const PUBLIC_KEY = import.meta.env.VITE_EMAILJS_PUBLIC_KEY;
 
 export default function Contact() {
+  const [loading, setLoading] = useState(false);
+
+  const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+
+    if (!SERVICE_ID || !TEMPLATE_ID || !PUBLIC_KEY) {
+      toast.error('Email service is not configured. Please set up EmailJS credentials.', { duration: 5000 });
+      return;
+    }
+
+    setLoading(true);
+
+    try {
+      await emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, e.currentTarget, PUBLIC_KEY);
+      toast.success('Message sent successfully! We\'ll get back to you within 24 hours.', { duration: 4000 });
+      e.currentTarget.reset();
+    } catch {
+      toast.error('Failed to send message. Please try again or email us directly.', { duration: 5000 });
+    } finally {
+      setLoading(false);
+    }
+  };
+
   return (
     <motion.div
       initial={{ opacity: 0, rotateY: -90, z: -500, scale: 0.9 }}
@@ -31,17 +61,19 @@ export default function Contact() {
           </p>
         </div>
 
-        <form className="space-y-6" onSubmit={(e) => e.preventDefault()}>
+        <form className="space-y-6" onSubmit={handleSubmit}>
           <div className="space-y-2">
-            <label htmlFor="email" className="block text-xs uppercase tracking-widest font-bold text-zinc-900 dark:text-white">
+            <label htmlFor="user_email" className="block text-xs uppercase tracking-widest font-bold text-zinc-900 dark:text-white">
               Email Address
             </label>
             <input 
               type="email" 
-              id="email" 
+              id="user_email" 
+              name="user_email"
               placeholder="you@company.com" 
               className="w-full bg-zinc-100 dark:bg-zinc-900 border border-zinc-300 dark:border-zinc-800 p-4 font-medium focus:outline-none focus:border-orange-500 focus:ring-1 focus:ring-orange-500 transition-colors text-zinc-900 dark:text-white"
               required
+              disabled={loading}
             />
           </div>
 
@@ -52,9 +84,11 @@ export default function Contact() {
             <input 
               type="text" 
               id="subject" 
+              name="subject"
               placeholder="Project Inquiry" 
               className="w-full bg-zinc-100 dark:bg-zinc-900 border border-zinc-300 dark:border-zinc-800 p-4 font-medium focus:outline-none focus:border-orange-500 focus:ring-1 focus:ring-orange-500 transition-colors text-zinc-900 dark:text-white"
               required
+              disabled={loading}
             />
           </div>
 
@@ -64,19 +98,31 @@ export default function Contact() {
             </label>
             <textarea 
               id="message" 
+              name="message"
               rows={6}
               placeholder="We are looking to develop..." 
               className="w-full bg-zinc-100 dark:bg-zinc-900 border border-zinc-300 dark:border-zinc-800 p-4 font-medium focus:outline-none focus:border-orange-500 focus:ring-1 focus:ring-orange-500 transition-colors resize-none text-zinc-900 dark:text-white"
               required
+              disabled={loading}
             ></textarea>
           </div>
 
           <button 
             type="submit" 
-            className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 bg-orange-600 dark:bg-orange-500 text-white dark:text-black text-xs uppercase tracking-widest font-bold rounded-none hover:bg-orange-700 dark:hover:bg-orange-400 transition-colors"
+            disabled={loading}
+            className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-8 py-4 bg-orange-600 dark:bg-orange-500 text-white dark:text-black text-xs uppercase tracking-widest font-bold rounded-none hover:bg-orange-700 dark:hover:bg-orange-400 transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
           >
-            Send Inquiry
-            <Send size={18} />
+            {loading ? (
+              <>
+                Sending...
+                <Loader2 size={18} className="animate-spin" />
+              </>
+            ) : (
+              <>
+                Send Inquiry
+                <Send size={18} />
+              </>
+            )}
           </button>
         </form>
       </main>
